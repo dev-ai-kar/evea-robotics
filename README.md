@@ -1,3 +1,5 @@
+![Perception in Robotics](annotated_output.gif)
+
 # Project EVE-a: Building a Connection
 
 *Inspired by a classic film, this project is not just about building a robot, but about creating a companion that explores the connection between our real and idealized selves.*
