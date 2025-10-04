@@ -1,4 +1,4 @@
-![Perception in Robotics](annotated_output.gif)
+<img src="Profile_-_EVE.png" alt="EVE" width="200"/>
 
 # Project EVE-a: Building a Connection
 
@@ -23,8 +23,10 @@ Project EVE-a is an advanced robotics project to create a companion robot inspir
   * **A Focus on Connection:** At its core, EVE-a is designed to be a companion. Her primary function is to interact, to learn, and to form a bond with her user.
 
 ## Core Features
+![Perception in Robotics](annotated_output.gif)
 
 To bring EVE-a to life, we will leverage cutting-edge AI and robotics. Using a powerful multimodal model like Gemini, we can implement sophisticated features that go beyond simple commands.
+
 
   * **Advanced Perception:**
 
@@ -102,4 +104,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 -----
 
-<img src="Profile_-_EVE.png" alt="EVE" width="200"/>
+
