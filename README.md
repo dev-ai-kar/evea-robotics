@@ -102,4 +102,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 -----
 
-![EVE](Profile_-_EVE.png)
+<img src="Profile_-_EVE.png" alt="EVE" width="200"/>
